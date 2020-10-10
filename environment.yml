@@ -1,0 +1,20 @@
+local:
+    username: local_username
+    password: local_password
+    gender: local_gender
+    dob: local_dob
+dev:
+    username: dev_username
+    password: dev_password
+    gender: dev_gender
+    dob: dev_dob
+staging:
+    username: staging_username
+    password: staging_password
+    gender: staging_gender
+    dob: staging_dob
+production:
+    username: production_username
+    password: production_password
+    gender: production_gender
+    dob: production_dob
